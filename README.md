@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rattanak Neariroth</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://64.media.tumblr.com/cea879ca5ce3bc9fe88ec0af1e44dad4/a3cda92f1cac3bd8-e0/s640x960/b54d9349fa4a5ffcb7b48c6ef6b0c2991882d1db.gifv”>
+<h3 align="center">A passionate frontend developer from Cambodia</h3>
+<img align=“right” alt=“Coding” width=“400” src=“https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rattanakneariroth&label=Profile%20views&color=0e75b6&style=flat" alt="rattanakneariroth" /> </p>
 
